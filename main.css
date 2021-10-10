@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    background-color: #CFF4FC;
+}
+
+button {
+    margin: 8px;
+}
+
+#par {
+    border-color: transparent;
+    border-radius: 2.5px;
+    height: 33px;
+    width: 40px;
+    background-color:#198754/*#DC3545 */
+}
+
+#impar {
+    border-color: transparent;
+    border-radius: 2.5px;
+    height: 33px;
+    width: 50px;
+    background-color:#DC3545
+}
